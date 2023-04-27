@@ -27,6 +27,7 @@
     <string name="schoolENG">School</string>
     <string name="emailENG">E-mail</string>
     <string name="phoneENG">Phone</string>
+    <string name="regENG">Register</string>
     <style name="Button.White" parent="ThemeOverlay.AppCompat">
         <item name="colorAccent">@android:color/white</item>
     </style>
