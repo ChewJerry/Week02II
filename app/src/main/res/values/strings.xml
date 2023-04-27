@@ -13,4 +13,21 @@
         android:layout_height="1dp"
         android:background="@android:color/darker_gray"/>
      </string>
+
+    <string name="regFormENG">Registration Form</string>
+    <string name="welcomeENG">Welcome to Adventure Learning Club!</string>
+    <string name="fullNameENG">Full Name</string>
+    <string name="firstNameENG">First Name</string>
+    <string name="lastNameENG">Last Name</string>
+    <string name="genderENG">Gender</string>
+    <string name="maleENG">Male</string>
+    <string name="femaleENG">Female</string>
+    <string name="studentIDENG">Student ID</string>
+    <string name="femENG">Female</string>
+    <string name="schoolENG">School</string>
+    <string name="emailENG">E-mail</string>
+    <string name="phoneENG">Phone</string>
+    <style name="Button.White" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@android:color/white</item>
+    </style>
 </resources>
